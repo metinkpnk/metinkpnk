@@ -18,7 +18,7 @@
 📍 **KAHRAMANMARAŞ - MERSİN**  
 💼 Yazılım geliştirme ve problem çözme konusunda tutkulu bir geliştiriciyim  
 🌱 Sürekli öğrenen ve kendini geliştiren biriyim  
-🔗 **Portfolio:** [metinkpnkgithub.io/PortfolioSayfa](https://metinkpnkgithub.io/PortfolioSayfa)
+🔗 **Portfolio:** [metinkpnkgithub.io/PortfolioSayfa](https://metinkpnk.netlify.app/)
 
 ---
 
